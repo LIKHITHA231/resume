@@ -1,0 +1,39 @@
+{
+  "left":{
+    "photo":"likhi.jpg",
+    "name":"k.likhitha",
+    "email":"klikhithak@gmail.com",
+  "phone":"9669669669"
+},
+  "education":[{
+    "course":"btech(CSE)",
+    "college":["RCEW","2015-2019","74%"]
+
+  },
+  {
+    "course":"inter(MPC)",
+    "college":["Narayana","2013-2015","95%"]
+  },
+  {
+    "course":"SSC",
+    "college":["keshava reddy","2012-2013","97%"]
+
+  }
+
+],
+  "skills":[
+    {
+      "name":"operating systems",
+      "value":"windows,linux"
+    },
+    {
+      "name":"web development",
+      "value":"html,python"
+    },
+    {
+      "name":"programming lamguages",
+      "value":"c,c++,java"
+    }
+
+  ]
+}
